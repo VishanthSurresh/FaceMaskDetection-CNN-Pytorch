@@ -26,6 +26,8 @@ AI Project Report - 1 		- Detailed report about the project
 
 Expectations-of-Originality 	- Originality form Signed by all the team members
 
+Final_model_trained.pt 		- Trained Model File 
+
 Steps to run the notebook:
 
 The code consists of multiple cells. Functions and classes are declared in Top and training_model is called at very last. Each cell can be executed using Shift + enter and
