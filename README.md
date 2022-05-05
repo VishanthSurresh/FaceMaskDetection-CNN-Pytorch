@@ -3,7 +3,7 @@
 ![FaskMaskDetection](https://user-images.githubusercontent.com/35566310/166952220-d32aaf0b-edd1-4ea6-8074-c567912ac256.png)
 
 Governments and global health officials alike are entering unchartered territory when it comes to setting guidelines and regulations on how to slow the spread of COVID-19, while also mitigating future potential virus outbreaks. There has been much uncertainty surrounding COVID-19 and how quickly or slowly our lives will return to normalcy. While healthcare professionals and scientists are learning more every day, we know for a fact that the proper use of face masks has proven to
-be an effective measure in keeping infection rates from rising again, especially as cities and countries come out of lockdown. Thus Face Mask Detection technique helps to identify, whether people wearing mask or not. This in turn helps government to take necessary actions.
+be an effective measure in keeping infection rates from rising again, especially as cities and countries come out of lockdown. Thus we developed an AI that analyze face images and detect whether a person is wearing a face mask or not, as well as the type of mask that is being worn, which helps government to take necessary actions.
 
 ![mask-detection-sample](https://user-images.githubusercontent.com/35566310/166942413-24742dc1-f573-4dd7-a10e-08010a8c525e.jpg)
 
