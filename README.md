@@ -48,3 +48,6 @@ Note : There might be overfitting if we didnt restart the notebook. So it is hig
 
 We used open source datasets in this project. In addition to that we used MaskTheFace computer vision based script to generate Augmented Images - https://github.com/aqeelanwar/MaskTheFace
 
+![MaskTheFace](https://user-images.githubusercontent.com/35566310/166953093-c50a3d33-df97-4b0d-93b8-ccb7564a640f.png) ![MaskTheFace - Steps](https://user-images.githubusercontent.com/35566310/166953132-8d0db5e5-ecb3-4a8a-bbb4-c5366517fa87.png)
+
+
