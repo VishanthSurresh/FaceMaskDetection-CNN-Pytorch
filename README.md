@@ -1,6 +1,8 @@
 # NS_6
 Face Mask Detection
 
+![mask-detection-sample](https://user-images.githubusercontent.com/35566310/166942413-24742dc1-f573-4dd7-a10e-08010a8c525e.jpg)
+
 Directory Structure and Description
 
 Dataset Description
